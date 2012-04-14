@@ -74,4 +74,8 @@ class API < Sinatra::Base
   get '/' do
     erb :index
   end
+
+  get '/project' do
+    erb :project
+  end
 end

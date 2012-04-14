@@ -23,7 +23,7 @@ header {
 //background-image: -webkit-linear-gradient(top, rgb(100, 105, 23), rgb(186, 190, 51)); color: #666d16;
 
   font-family: 'Chicle', cursive;
-  font-size: 200%;
+  font-size: 250%;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.5);
 //line-height: 45px;
 
@@ -58,4 +58,19 @@ header {
   background-image: url(/images/glyphicons-halflings.png);
 }
 
+#projects {
+
+  ul{
+    list-style:none;
+    margin: 0px;
+  }
+
+}
+
+.project_details_panel{
+  ul{
+    list-style:none;
+    margin: 0px;
+  }
+}
 
